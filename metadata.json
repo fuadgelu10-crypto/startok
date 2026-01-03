@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TokStar - The Creator Economy App",
+  "description": "A short-form video platform with integrated AI-powered creator monetization and robust advertising management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
